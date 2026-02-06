@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "titulo_historia": "语言分析",
+    "autor": "Usuario",
+    "fecha": "2026-02-04"
+  },
+  "titulo": "语言分析",
+  "conectores_logicos": [
+    {
+      "termino": "然而",
+      "explicacion": "表示对比的连接词，引出与之前所述相反的观点。",
+      "ejemplo": "他有一个约会……然而，佩德罗总是心不在焉。"
+    },
+    {
+      "termino": "与此同时",
+      "explicacion": "表示时间同时性的连接词，指示一个动作与另一个动作同时发生。",
+      "ejemplo": "他决定等待。与此同时，他拿出了他的平板电脑……"
+    },
+    {
+      "termino": "突然",
+      "explicacion": "引出意外或突然发生事件的连接词。",
+      "ejemplo": "突然，他看到一个戴着红围巾的女人……"
+    },
+    {
+      "termino": "顺便说一下",
+      "explicacion": "用于补充额外信息或稍微转换话题的连接词。",
+      "ejemplo": "他很担心……顺便说一下，我很喜欢你的围巾……"
+    },
+    {
+      "termino": "就在那时",
+      "explicacion": "表示事件序列中特定时刻的时间连接词。",
+      "ejemplo": "佩德罗感到自己的脸变红了……就在那时，他听到一个熟悉的笑声……"
+    },
+    {
+      "termino": "尽管",
+      "explicacion": "表示让步的连接词，指示某事即使在存在障碍或相反情况下仍然发生。",
+      "ejemplo": "尽管很尴尬，但这会是个好故事。"
+    }
+  ],
+  "verbos": [
+    {
+      "termino": "讨论",
+      "explicacion": "表示与他人就某个话题交换想法或意见的动词。",
+      "ejemplo": "他和他的朋友索尼娅有个约会，要讨论一个关于环境的重要项目。"
+    },
+    {
+      "termino": "等待",
+      "explicacion": "表示停留在某处直到某事发生或某人到来的动词。",
+      "ejemplo": "他在一张小桌子旁坐下……并决定等待。"
+    },
+    {
+      "termino": "打断",
+      "explicacion": "表示中断或停止某人行动或讲话的动词。",
+      "ejemplo": "那个女人终于打断了他：‘对不起，先生……’"
+    },
+    {
+      "termino": "惊呼",
+      "explicacion": "表示带着强烈情感（通常是惊讶或喜悦）说出某事的动词。",
+      "ejemplo": "‘佩德罗，你在这儿！’——索尼娅笑着惊呼道。"
+    },
+    {
+      "termino": "允许",
+      "explicacion": "表示给予授权或可能性使某事发生的动词。",
+      "ejemplo": "我们不能允许时间继续流逝。"
+    }
+  ],
+  "adjetivos": [
+    {
+      "termino": "令人惊叹的",
+      "explicacion": "形容引起巨大惊讶或钦佩之物的形容词。",
+      "ejemplo": "新鲜烘焙咖啡的香气简直令人惊叹。"
+    },
+    {
+      "termino": "重要的",
+      "explicacion": "表示某物具有重大价值、意义或后果的形容词。",
+      "ejemplo": "为了讨论一个关于环境的重要项目。"
+    },
+    {
+      "termino": "奇怪的",
+      "explicacion": "形容罕见、不寻常或令人困惑之物的形容词。",
+      "ejemplo": "那个女人用一种非常奇怪的表情看着他。"
+    },
+    {
+      "termino": "无辜的",
+      "explicacion": "形容没有恶意或过错的行为的形容词。",
+      "ejemplo": "看到这只是一个无辜的误会。"
+    },
+    {
+      "termino": "害羞的",
+      "explicacion": "形容一个人感到难为情或行为拘谨的形容词。",
+      "ejemplo": "佩德罗看向另一张桌子，害羞地微笑着。"
+    }
+  ],
+  "sustantivos_clave": [
+    {
+      "termino": "咖啡馆",
+      "explicacion": "供应和消费咖啡及其他饮料的场所，通常也提供轻食。",
+      "ejemplo": "佩德罗来到了‘金豆’咖啡馆。"
+    },
+    {
+      "termino": "项目",
+      "explicacion": "为达成特定目标而组织的一系列活动或计划。",
+      "ejemplo": "为了讨论一个关于环境的重要项目。"
+    },
+    {
+      "termino": "围巾",
+      "explicacion": "一种通常较长、由布料制成的衣物，围在脖子上用于保暖。",
+      "ejemplo": "看到一个戴着红围巾的女人走进店里。"
+    },
+    {
+      "termino": "尴尬",
+      "explicacion": "因自己被认为不当的行为而引起的不适或羞辱感。",
+      "ejemplo": "佩德罗感到自己的脸因尴尬而变红了。"
+    },
+    {
+      "termino": "误会",
+      "explicacion": "一个人错误地解读另一个人的言语或行为的情况。",
+      "ejemplo": "看到这只是一个无辜的误会。"
+    },
+    {
+      "termino": "轶事",
+      "explicacion": "关于一个真实事件的简短而有趣的叙述，通常是个人或有趣的故事。",
+      "ejemplo": "尽管很尴尬，但这会是个好故事。"
+    }
+  ],
+  "expresiones_idiomaticas": [
+    {
+      "termino": "心不在焉",
+      "explicacion": "表示走神、想着其他事情而没有关注现实的表达。",
+      "ejemplo": "然而，当佩德罗脑子里事情太多时，他常常心不在焉。"
+    },
+    {
+      "termino": "加把劲",
+      "explicacion": "表示更加努力、行动起来或开始充满活力和勤奋地工作的表达。",
+      "ejemplo": "好吧，我们得为这个项目加把劲了。"
+    },
+    {
+      "termino": "搞砸了 / 说错话做错事",
+      "explicacion": "表示犯错误、说了或做了不恰当的事情从而导致问题或尴尬的表达。",
+      "ejemplo": "我真的搞砸了。我当时太专注于自己的思绪了……"
+    }
+  ],
+  "funciones_comunicativas": [
+    {
+      "termino": "道歉 / 请求原谅",
+      "explicacion": "表达对所采取行动的悔意，并请求对方原谅。",
+      "ejemplo": "佩德罗立刻站起来向那位陌生女士道歉。‘非常抱歉！’"
+    },
+    {
+      "termino": "表达困惑或不知情",
+      "explicacion": "表示不理解某种情况或对某事或某人没有信息。",
+      "ejemplo": "‘对不起，先生……我不知道您是谁。我想您把我错认成别人了。’"
+    },
+    {
+      "termino": "给予友好的建议或忠告",
+      "explicacion": "礼貌地提出一个想法或行动，以帮助或改善情况。",
+      "ejemplo": "‘别担心——她回答道——。有时会发生这种事。也许您需要一杯更浓的咖啡来提神。’"
+    }
+  ],
+  "palabras_clave": [
+    "咖啡馆",
+    "约会",
+    "项目",
+    "分心",
+    "围巾",
+    "混淆",
+    "尴尬",
+    "道歉",
+    "误会",
+    "轶事",
+    "集中注意力",
+    "平板电脑",
+    "表情",
+    "受惊的",
+    "工作",
+    "忘记",
+    "害羞",
+    "如释重负",
+    "交通",
+    "文件"
+  ],
+  "narrativa": "Un Café con Confusión\nPedro llegó a la cafetería 'El Grano de Oro' a las cinco de la tarde. El lugar estaba lleno de gente joven trabajando en sus computadoras y el aroma a café recién tostado era simplemente asombroso. Él tenía una cita con su amiga Sonia para discutir un proyecto importante sobre el medio ambiente. Sin embargo, Pedro suele estar en las nubes cuando tiene muchas cosas en la cabeza.\nSe sentó en una mesa pequeña cerca de la ventana y decidió esperar. Mientras tanto, sacó su tableta para revisar unos documentos. De repente, vio a una mujer con una bufanda roja entrar al local. '¡Esa debe ser Sonia!', pensó Pedro con entusiasmo. Ella se sentó en una mesa al fondo y pidió un capuchino. Pedro se levantó, caminó hacia ella y, sin decir una palabra, se sentó frente a ella con una gran sonrisa.\n—¡Hola! Qué bueno que lograste llegar —dijo Pedro muy animado—. Estaba preocupado porque el tráfico hoy es un desastre. Por cierto, me encanta tu bufanda, te queda muy bien.\nLa mujer lo miró con una expresión muy extraña. Parecía confundida y un poco asustada. Pedro, sin darse cuenta del error, continuó hablando rápidamente:\n—Bueno, tenemos que ponernos las pilas con el proyecto. El director espera que logremos desarrollar la propuesta para el lunes. ¿Trajiste los apuntes que te pedí?\nLa mujer finalmente interrumpió:\n—Disculpe, señor... no sé quién es usted. Creo que me está confundiendo con otra persona. De hecho, yo no me llamo Sonia y no trabajo en ningún proyecto.\nPedro sintió que la cara se le ponía roja de la vergüenza. En ese momento, escuchó una risa familiar detrás de él. Era Sonia, la verdadera Sonia, que estaba sentada en la mesa de al lado observando toda la escena.\n—Pedro, ¡estás aquí! —exclamó Sonia entre risas—. Te vi entrar, pero estabas tan distraído que no me viste.\nPedro se levantó de inmediato y le pidió disculpas a la desconocida.\n—¡Lo siento muchísimo! —dijo Pedro con amabilidad—. De verdad metí la pata. Estaba tan concentrado en mis pensamientos que no me fijé bien en su rostro. Por favor, discúlpeme.\nLa mujer sonrió con suavidad al ver que solo era un malentendido inocente.\n—No se preocupe —respondió ella—. A veces sucede. A lo mejor usted necesita un café más fuerte para despertar.\nPedro regresó a la mesa con Sonia, sintiéndose un poco tonto pero aliviado.\n—A pesar de la vergüenza, esto es una buena anécdota —comentó Sonia—. Pero ahora, en serio, debemos concentrarnos. No podemos permitir que el tiempo siga pasando.\nAmbos empezaron a trabajar, aunque de vez en cuando, Pedro miraba hacia la otra mesa y sonreía con timidez. Definitivamente, ese sería un día difícil de olvidar."
+}

@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "titulo_historia": "言語分析",
+    "autor": "Usuario",
+    "fecha": "2026-02-04"
+  },
+  "titulo": "言語分析",
+  "conectores_logicos": [
+    {
+      "termino": "しかし",
+      "explicacion": "前述の内容と対照的な考えを導入する対比の接続詞。",
+      "ejemplo": "彼はデートの約束をしていた… しかし、ペドロは頭の中がいっぱいだと、よく上の空になる。"
+    },
+    {
+      "termino": "その間",
+      "explicacion": "別の行動と同時に起こる行動を示す時間の接続詞。",
+      "ejemplo": "待つことにした。 その間、タブレットを取り出して…"
+    },
+    {
+      "termino": "突然",
+      "explicacion": "予期せぬ出来事や突然起こる出来事を導入する接続詞。",
+      "ejemplo": "突然、赤いマフラーをした女性が入ってくるのを見た…"
+    },
+    {
+      "termino": "ところで",
+      "explicacion": "追加情報を加えたり、話題を少し変えたりするために使われる接続詞。",
+      "ejemplo": "心配していたんだ… ところで、君のマフラー、すごくいいね…"
+    },
+    {
+      "termino": "その瞬間",
+      "explicacion": "出来事の連続の中の特定の瞬間を示す時間の接続詞。",
+      "ejemplo": "ペドロは恥ずかしさで顔が赤くなるのを感じた… その瞬間、聞き覚えのある笑い声が聞こえた…"
+    },
+    {
+      "termino": "にもかかわらず",
+      "explicacion": "障害や反対の状況があるにもかかわらず、何かが起こることを示す譲歩の接続詞。",
+      "ejemplo": "恥ずかしさにもかかわらず、これは良い逸話だ。"
+    }
+  ],
+  "verbos": [
+    {
+      "termino": "議論する",
+      "explicacion": "あるテーマについて他の人と話し、意見や考えを交換することを意味する動詞。",
+      "ejemplo": "彼は友人ソニアと重要なプロジェクトについて議論するデートの約束をしていた。"
+    },
+    {
+      "termino": "待つ",
+      "explicacion": "何かが起こるか誰かが到着するまで、その場所に留まることを意味する動詞。",
+      "ejemplo": "小さなテーブルに座り… 待つことにした。"
+    },
+    {
+      "termino": "遮る",
+      "explicacion": "誰かの行動や話を中断したり止めたりすることを意味する動詞。",
+      "ejemplo": "女性はついに遮った：『すみません、あなた…』"
+    },
+    {
+      "termino": "叫ぶ",
+      "explicacion": "何かを力強く感情を込めて言うことを意味する動詞。通常、驚きや喜びを表す。",
+      "ejemplo": "『ペドロ、ここにいたんだね！』―ソニアは笑いながら叫んだ。"
+    },
+    {
+      "termino": "許す",
+      "explicacion": "何かが起こることを許可したり可能性を与えたりすることを意味する動詞。",
+      "ejemplo": "時間がただ過ぎていくのを許すわけにはいかない。"
+    }
+  ],
+  "adjetivos": [
+    {
+      "termino": "素晴らしい",
+      "explicacion": "大きな驚きや感嘆を引き起こす何かを描写する形容詞。",
+      "ejemplo": "焙煎したてのコーヒーの香りは、単純に素晴らしかった。"
+    },
+    {
+      "termino": "重要な",
+      "explicacion": "何かが大きな価値、意味、または結果を持つことを示す形容詞。",
+      "ejemplo": "環境に関する重要なプロジェクトについて議論するため。"
+    },
+    {
+      "termino": "奇妙な",
+      "explicacion": "珍しい、普通でない、または当惑させる何かを描写する形容詞。",
+      "ejemplo": "女性はとても奇妙な表情で彼を見た。"
+    },
+    {
+      "termino": "無邪気な",
+      "explicacion": "悪意や罪の意識なく行われる何かを描写する形容詞。",
+      "ejemplo": "それが単なる無邪気な誤解だとわかって。"
+    },
+    {
+      "termino": "内気な",
+      "explicacion": "恥ずかしがり屋で、控えめに行動する人を描写する形容詞。",
+      "ejemplo": "ペドロは別のテーブルを見つめ、内気に微笑んだ。"
+    }
+  ],
+  "sustantivos_clave": [
+    {
+      "termino": "カフェ",
+      "explicacion": "コーヒーや他の飲み物、しばしば軽食が提供され消費される場所。",
+      "ejemplo": "ペドロは『エル・グラノ・デ・オロ』カフェに到着した。"
+    },
+    {
+      "termino": "プロジェクト",
+      "explicacion": "特定の目標を達成するために組織化された活動の計画または一連の活動。",
+      "ejemplo": "環境に関する重要なプロジェクトについて議論するため。"
+    },
+    {
+      "termino": "マフラー",
+      "explicacion": "通常長く、布でできた、暖を取るために首に巻く衣類。",
+      "ejemplo": "赤いマフラーをした女性が店に入ってくるのを見た。"
+    },
+    {
+      "termino": "恥ずかしさ",
+      "explicacion": "不適切と考えられる自分の行動によって引き起こされる不快感や屈辱の感情。",
+      "ejemplo": "ペドロは恥ずかしさで顔が赤くなるのを感じた。"
+    },
+    {
+      "termino": "誤解",
+      "explicacion": "ある人が他の人の言葉や行動を誤って解釈する状況。",
+      "ejemplo": "それが単なる無邪気な誤解だとわかって。"
+    },
+    {
+      "termino": "逸話",
+      "explicacion": "通常個人的で面白い、実際の出来事の短くて興味深い話。",
+      "ejemplo": "恥ずかしさにもかかわらず、これは良い逸話だ。"
+    }
+  ],
+  "expresiones_idiomaticas": [
+    {
+      "termino": "上の空になる",
+      "explicacion": "気が散っていて、他のことを考えており、現実に注意を払っていないことを意味する表現。",
+      "ejemplo": "しかし、ペドロは頭の中がいっぱいだと、よく上の空になる。"
+    },
+    {
+      "termino": "気合を入れる",
+      "explicacion": "より努力する、活性化する、またはエネルギーと勤勉さをもって仕事を始めることを意味する表現。",
+      "ejemplo": "さて、プロジェクトに気合を入れないと。"
+    },
+    {
+      "termino": "しくじる",
+      "explicacion": "問題や恥ずかしさを引き起こす不適切なことを言ったりしたりする、間違いを犯すことを意味する表現。",
+      "ejemplo": "本当にしくじっちゃった。考え事に集中しすぎて…"
+    }
+  ],
+  "funciones_comunicativas": [
+    {
+      "termino": "謝罪する / 許しを請う",
+      "explicacion": "行った行動について後悔を表明し、相手の許しを求めること。",
+      "ejemplo": "ペドロはすぐに立ち上がり、見知らぬ女性に謝罪した。『本当にごめんなさい！』"
+    },
+    {
+      "termino": "混乱や無知を表現する",
+      "explicacion": "状況を理解していないこと、または何かや誰かについて情報を持っていないことを表明すること。",
+      "ejemplo": "『すみません、あなた… あなたが誰かわかりません。私を他の人と間違えていると思います。』"
+    },
+    {
+      "termino": "親切な提案や助言を与える",
+      "explicacion": "助けたり状況を改善したりするために、丁寧にアイデアや行動を提案すること。",
+      "ejemplo": "『心配しないでください―彼女は答えた―。時々そういうことってあるんですよ。もしかしたら、あなたは目を覚ますためにもっと濃いコーヒーが必要なんじゃないですか。』"
+    }
+  ],
+  "palabras_clave": [
+    "カフェ",
+    "デート",
+    "プロジェクト",
+    "上の空",
+    "マフラー",
+    "混同する",
+    "恥ずかしさ",
+    "謝罪",
+    "誤解",
+    "逸話",
+    "集中する",
+    "タブレット",
+    "表情",
+    "怖がった",
+    "働く",
+    "忘れる",
+    "内気さ",
+    "安堵した",
+    "交通",
+    "書類"
+  ],
+  "narrativa": "Un Café con Confusión\nPedro llegó a la cafetería 'El Grano de Oro' a las cinco de la tarde. El lugar estaba lleno de gente joven trabajando en sus computadoras y el aroma a café recién tostado era simplemente asombroso. Él tenía una cita con su amiga Sonia para discutir un proyecto importante sobre el medio ambiente. Sin embargo, Pedro suele estar en las nubes cuando tiene muchas cosas en la cabeza.\nSe sentó en una mesa pequeña cerca de la ventana y decidió esperar. Mientras tanto, sacó su tableta para revisar unos documentos. De repente, vio a una mujer con una bufanda roja entrar al local. '¡Esa debe ser Sonia!', pensó Pedro con entusiasmo. Ella se sentó en una mesa al fondo y pidió un capuchino. Pedro se levantó, caminó hacia ella y, sin decir una palabra, se sentó frente a ella con una gran sonrisa.\n—¡Hola! Qué bueno que lograste llegar —dijo Pedro muy animado—. Estaba preocupado porque el tráfico hoy es un desastre. Por cierto, me encanta tu bufanda, te queda muy bien.\nLa mujer lo miró con una expresión muy extraña. Parecía confundida y un poco asustada. Pedro, sin darse cuenta del error, continuó hablando rápidamente:\n—Bueno, tenemos que ponernos las pilas con el proyecto. El director espera que logremos desarrollar la propuesta para el lunes. ¿Trajiste los apuntes que te pedí?\nLa mujer finalmente interrumpió:\n—Disculpe, señor... no sé quién es usted. Creo que me está confundiendo con otra persona. De hecho, yo no me llamo Sonia y no trabajo en ningún proyecto.\nPedro sintió que la cara se le ponía roja de la vergüenza. En ese momento, escuchó una risa familiar detrás de él. Era Sonia, la verdadera Sonia, que estaba sentada en la mesa de al lado observando toda la escena.\n—Pedro, ¡estás aquí! —exclamó Sonia entre risas—. Te vi entrar, pero estabas tan distraído que no me viste.\nPedro se levantó de inmediato y le pidió disculpas a la desconocida.\n—¡Lo siento muchísimo! —dijo Pedro con amabilidad—. De verdad metí la pata. Estaba tan concentrado en mis pensamientos que no me fijé bien en su rostro. Por favor, discúlpeme.\nLa mujer sonrió con suavidad al ver que solo era un malentendido inocente.\n—No se preocupe —respondió ella—. A veces sucede. A lo mejor usted necesita un café más fuerte para despertar.\nPedro regresó a la mesa con Sonia, sintiéndose un poco tonto pero aliviado.\n—A pesar de la vergüenza, esto es una buena anécdota —comentó Sonia—. Pero ahora, en serio, debemos concentrarnos. No podemos permitir que el tiempo siga pasando.\nAmbos empezaron a trabajar, aunque de vez en cuando, Pedro miraba hacia la otra mesa y sonreía con timidez. Definitivamente, ese sería un día difícil de olvidar."
+}

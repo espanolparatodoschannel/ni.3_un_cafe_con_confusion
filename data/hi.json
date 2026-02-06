@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "titulo_historia": "भाषाई विश्लेषण",
+    "autor": "Usuario",
+    "fecha": "2026-02-04"
+  },
+  "titulo": "भाषाई विश्लेषण",
+  "conectores_logicos": [
+    {
+      "termino": "हालाँकि",
+      "explicacion": "विरोध दर्शाने वाला कनेक्टर जो पहले कही गई बात के विपरीत विचार प्रस्तुत करता है।",
+      "ejemplo": "उसकी एक मुलाकात थी... हालाँकि, पेड्रो अक्सर अपने ख्यालों में खोया रहता है।"
+    },
+    {
+      "termino": "इस बीच",
+      "explicacion": "समयबद्ध कनेक्टर जो एक क्रिया के साथ-साथ होने वाली दूसरी क्रिया को दर्शाता है।",
+      "ejemplo": "उसने इंतज़ार करने का फैसला किया। इस बीच, उसने अपनी टैबलेट निकाली..."
+    },
+    {
+      "termino": "अचानक",
+      "explicacion": "कनेक्टर जो एक अप्रत्याशित या अचानक घटित होने वाली घटना का परिचय देता है।",
+      "ejemplo": "अचानक, उसने लाल दुपट्टे वाली एक महिला को देखा..."
+    },
+    {
+      "termino": "वैसे",
+      "explicacion": "कनेक्टर जिसका उपयोग अतिरिक्त जानकारी जोड़ने या विषय को थोड़ा बदलने के लिए किया जाता है।",
+      "ejemplo": "वह चिंतित था... वैसे, मुझे तुम्हारा दुपट्टा बहुत पसंद है..."
+    },
+    {
+      "termino": "उसी क्षण",
+      "explicacion": "समयबद्ध कनेक्टर जो घटनाओं के क्रम में एक विशिष्ट पल की ओर इशारा करता है।",
+      "ejemplo": "पेड्रो ने महसूस किया कि उसका चेहरा शर्म से लाल हो रहा है... उसी क्षण, उसने एक परिचित हँसी सुनी..."
+    },
+    {
+      "termino": "के बावजूद",
+      "explicacion": "रियायती कनेक्टर जो इंगित करता है कि कोई बाधा या प्रतिकूल परिस्थिति होने के बावजूद कुछ घटित होता है।",
+      "ejemplo": "शर्मिंदगी के बावजूद, यह एक अच्छी कहानी है।"
+    }
+  ],
+  "verbos": [
+    {
+      "termino": "चर्चा करना",
+      "explicacion": "क्रिया जिसका अर्थ है किसी अन्य व्यक्ति के साथ किसी विषय पर विचारों या राय का आदान-प्रदान करते हुए बात करना।",
+      "ejemplo": "उसकी अपनी दोस्त सोनिया के साथ एक महत्वपूर्ण परियोजना पर चर्चा करने की मुलाकात थी।"
+    },
+    {
+      "termino": "इंतज़ार करना",
+      "explicacion": "क्रिया जिसका अर्थ है किसी चीज़ के घटित होने या किसी के आने तक किसी स्थान पर रुके रहना।",
+      "ejemplo": "वह एक छोटी मेज पर बैठ गया... और उसने इंतज़ार करने का फैसला किया।"
+    },
+    {
+      "termino": "बीच में रोकना",
+      "explicacion": "क्रिया जिसका अर्थ है किसी की कार्रवाई या बातचीत को काटना या रोकना।",
+      "ejemplo": "आखिरकार महिला ने बीच में रोका: 'माफ़ कीजिए, श्रीमान...'"
+    },
+    {
+      "termino": "पुकार उठना",
+      "explicacion": "क्रिया जिसका अर्थ है ताकत और भावना के साथ कुछ कहना, आमतौर पर आश्चर्य या खुशी व्यक्त करना।",
+      "ejemplo": "'पेड्रो, तुम यहाँ हो!' —सोनिया हँसते हुए पुकार उठी।"
+    },
+    {
+      "termino": "अनुमति देना",
+      "explicacion": "क्रिया जिसका अर्थ है किसी चीज़ के घटित होने के लिए अधिकार या संभावना प्रदान करना।",
+      "ejemplo": "हम समय को और बीतने नहीं दे सकते।"
+    }
+  ],
+  "adjetivos": [
+    {
+      "termino": "अद्भुत",
+      "explicacion": "विशेषण जो किसी ऐसी चीज़ का वर्णन करता है जो बड़े आश्चर्य या प्रशंसा का कारण बनती है।",
+      "ejemplo": "ताज़ा भुने हुए कॉफी की खुशबू बिल्कुल अद्भुत थी।"
+    },
+    {
+      "termino": "महत्वपूर्ण",
+      "explicacion": "विशेषण जो इंगित करता है कि किसी चीज़ का बड़ा मूल्य, महत्व या परिणाम है।",
+      "ejemplo": "पर्यावरण के बारे में एक महत्वपूर्ण परियोजना पर चर्चा करने के लिए।"
+    },
+    {
+      "termino": "अजीब",
+      "explicacion": "विशेषण जो किसी असामान्य, दुर्लभ या हैरान करने वाली चीज़ का वर्णन करता है।",
+      "ejemplo": "महिला ने उसे बहुत अजीब अभिव्यक्ति से देखा।"
+    },
+    {
+      "termino": "मासूम",
+      "explicacion": "विशेषण जो किसी ऐसी चीज़ का वर्णन करता है जो बुरी नीयत या दोष के बिना की जाती है।",
+      "ejemplo": "यह देखकर कि यह सिर्फ एक मासूम गलतफहमी थी।"
+    },
+    {
+      "termino": "शर्मीला",
+      "explicacion": "विशेषण जो एक ऐसे व्यक्ति का वर्णन करता है जो संकोची है या संयम से कार्य करता है।",
+      "ejemplo": "पेड्रो दूसरी मेज की ओर देख रहा था और शर्मीलेपन से मुस्कुरा रहा था।"
+    }
+  ],
+  "sustantivos_clave": [
+    {
+      "termino": "कैफे",
+      "explicacion": "वह स्थान जहाँ कॉफी और अन्य पेय परोसे और सेवन किए जाते हैं, अक्सर हल्का भोजन भी मिलता है।",
+      "ejemplo": "पेड्रो 'एल ग्रानो डे ओरो' कैफे में पहुँचा।"
+    },
+    {
+      "termino": "परियोजना",
+      "explicacion": "किसी विशिष्ट उद्देश्य को प्राप्त करने के लिए योजना या गतिविधियों का एक सेट।",
+      "ejemplo": "पर्यावरण के बारे में एक महत्वपूर्ण परियोजना पर चर्चा करने के लिए।"
+    },
+    {
+      "termino": "दुपट्टा",
+      "explicacion": "कपड़े का एक लंबा टुकड़ा, आमतौर पर लंबा, जिसे गर्म रखने के लिए गले के चारों ओर पहना जाता है।",
+      "ejemplo": "उसने लाल दुपट्टे वाली एक महिला को दुकान में प्रवेश करते देखा।"
+    },
+    {
+      "termino": "शर्मिंदगी",
+      "explicacion": "अपने किसी कार्य को अनुचित मानने के कारण होने वाली असहजता या अपमान की भावना।",
+      "ejemplo": "पेड्रो ने महसूस किया कि शर्मिंदगी से उसका चेहरा लाल हो रहा है।"
+    },
+    {
+      "termino": "गलतफहमी",
+      "explicacion": "ऐसी स्थिति जिसमें एक व्यक्ति दूसरे की बातों या कार्यों की गलत व्याख्या करता है।",
+      "ejemplo": "यह देखकर कि यह सिर्फ एक मासूम गलतफहमी थी।"
+    },
+    {
+      "termino": "किस्सा",
+      "explicacion": "किसी वास्तविक घटना का संक्षिप्त और दिलचस्प वर्णन, आमतौर पर व्यक्तिगत या मनोरंजक।",
+      "ejemplo": "शर्मिंदगी के बावजूद, यह एक अच्छा किस्सा है।"
+    }
+  ],
+  "expresiones_idiomaticas": [
+    {
+      "termino": "ख्यालों में खो जाना",
+      "explicacion": "एक अभिव्यक्ति जिसका अर्थ है खोया हुआ, दूसरी चीज़ों के बारे में सोचना और वास्तविकता पर ध्यान न देना।",
+      "ejemplo": "हालाँकि, पेड्रो अक्सर ख्यालों में खो जाता है जब उसके दिमाग में बहुत सारी बातें चल रही होती हैं।"
+    },
+    {
+      "termino": "जोश में आना / मेहनत करना",
+      "explicacion": "एक अभिव्यक्ति जिसका अर्थ है अधिक प्रयास करना, सक्रिय होना या ऊर्जा और लगन के साथ काम शुरू करना।",
+      "ejemplo": "खैर, हमें परियोजना पर जोश से मेहनत करनी होगी।"
+    },
+    {
+      "termino": "गलती कर बैठना",
+      "explicacion": "एक अभिव्यक्ति जिसका अर्थ है कोई गलती करना, कुछ अनुचित कहना या करना जिससे कोई समस्या या शर्मिंदगी होती है।",
+      "ejemplo": "मैंने सचमुच गलती कर दी। मैं अपने विचारों में इतना खोया हुआ था..."
+    }
+  ],
+  "funciones_comunicativas": [
+    {
+      "termino": "माफी माँगना / क्षमा याचना करना",
+      "explicacion": "किए गए किसी कार्य के लिए पछतावा व्यक्त करना और दूसरे व्यक्ति से क्षमा माँगना।",
+      "ejemplo": "पेड्रो तुरंत उठा और उस अजनबी महिला से माफी माँगी। 'मुझे बहुत अफसोस है!'"
+    },
+    {
+      "termino": "भ्रम या अज्ञानता व्यक्त करना",
+      "explicacion": "यह प्रकट करना कि कोई स्थिति समझ में नहीं आ रही है या किसी चीज़ या व्यक्ति के बारे में कोई जानकारी नहीं है।",
+      "ejemplo": "'माफ़ कीजिए, श्रीमान... मैं नहीं जानती आप कौन हैं। मुझे लगता है आप मुझे किसी और समझ रहे हैं।'"
+    },
+    {
+      "termino": "एक सौम्य सुझाव या सलाह देना",
+      "explicacion": "मदद करने या स्थिति को सुधारने के लिए विनम्र तरीके से कोई विचार या कार्रवाई प्रस्तावित करना।",
+      "ejemplo": "'चिंता मत कीजिए —उसने जवाब दिया—। कभी-कभी ऐसा हो जाता है। शायद आपको जागने के लिए एक मजबूत कॉफी की ज़रूरत है।'"
+    }
+  ],
+  "palabras_clave": [
+    "कैफे",
+    "मुलाकात",
+    "परियोजना",
+    "खोया हुआ",
+    "दुपट्टा",
+    "भ्रमित करना",
+    "शर्मिंदगी",
+    "माफी",
+    "गलतफहमी",
+    "किस्सा",
+    "ध्यान केंद्रित करना",
+    "टैबलेट",
+    "अभिव्यक्ति",
+    "डरी हुई",
+    "काम करना",
+    "भूल जाना",
+    "शर्मीलापन",
+    "राहत महसूस करना",
+    "ट्रैफिक",
+    "दस्तावेज़"
+  ],
+  "narrativa": "Un Café con Confusión\nPedro llegó a la cafetería 'El Grano de Oro' a las cinco de la tarde. El lugar estaba lleno de gente joven trabajando en sus computadoras y el aroma a café recién tostado era simplemente asombroso. Él tenía una cita con su amiga Sonia para discutir un proyecto importante sobre el medio ambiente. Sin embargo, Pedro suele estar en las nubes cuando tiene muchas cosas en la cabeza.\nSe sentó en una mesa pequeña cerca de la ventana y decidió esperar. Mientras tanto, sacó su tableta para revisar unos documentos. De repente, vio a una mujer con una bufanda roja entrar al local. '¡Esa debe ser Sonia!', pensó Pedro con entusiasmo. Ella se sentó en una mesa al fondo y pidió un capuchino. Pedro se levantó, caminó hacia ella y, sin decir una palabra, se sentó frente a ella con una gran sonrisa.\n—¡Hola! Qué bueno que lograste llegar —dijo Pedro muy animado—. Estaba preocupado porque el tráfico hoy es un desastre. Por cierto, me encanta tu bufanda, te queda muy bien.\nLa mujer lo miró con una expresión muy extraña. Parecía confundida y un poco asustada. Pedro, sin darse cuenta del error, continuó hablando rápidamente:\n—Bueno, tenemos que ponernos las pilas con el proyecto. El director espera que logremos desarrollar la propuesta para el lunes. ¿Trajiste los apuntes que te pedí?\nLa mujer finalmente interrumpió:\n—Disculpe, señor... no sé quién es usted. Creo que me está confundiendo con otra persona. De hecho, yo no me llamo Sonia y no trabajo en ningún proyecto.\nPedro sintió que la cara se le ponía roja de la vergüenza. En ese momento, escuchó una risa familiar detrás de él. Era Sonia, la verdadera Sonia, que estaba sentada en la mesa de al lado observando toda la escena.\n—Pedro, ¡estás aquí! —exclamó Sonia entre risas—. Te vi entrar, pero estabas tan distraído que no me viste.\nPedro se levantó de inmediato y le pidió disculpas a la desconocida.\n—¡Lo siento muchísimo! —dijo Pedro con amabilidad—. De verdad metí la pata. Estaba tan concentrado en mis pensamientos que no me fijé bien en su rostro. Por favor, discúlpeme.\nLa mujer sonrió con suavidad al ver que solo era un malentendido inocente.\n—No se preocupe —respondió ella—. A veces sucede. A lo mejor usted necesita un café más fuerte para despertar.\nPedro regresó a la mesa con Sonia, sintiéndose un poco tonto pero aliviado.\n—A pesar de la vergüenza, esto es una buena anécdota —comentó Sonia—. Pero ahora, en serio, debemos concentrarnos. No podemos permitir que el tiempo siga pasando.\nAmbos empezaron a trabajar, aunque de vez en cuando, Pedro miraba hacia la otra mesa y sonreía con timidez. Definitivamente, ese sería un día difícil de olvidar."
+}

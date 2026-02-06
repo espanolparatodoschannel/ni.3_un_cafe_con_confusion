@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "titulo_historia": "Лингвистический анализ",
+    "autor": "Usuario",
+    "fecha": "2026-02-04"
+  },
+  "titulo": "Лингвистический анализ",
+  "conectores_logicos": [
+    {
+      "termino": "Однако",
+      "explicacion": "Соединительное слово контраста, которое вводит идею, противоположную ранее упомянутой.",
+      "ejemplo": "У него была встреча... Однако Педро часто витает в облаках."
+    },
+    {
+      "termino": "Тем временем",
+      "explicacion": "Временной союз, указывающий на действие, одновременное с другим.",
+      "ejemplo": "Он решил подождать. Тем временем, он достал свой планшет..."
+    },
+    {
+      "termino": "Вдруг",
+      "explicacion": "Союз, вводящий неожиданное или резко произошедшее событие.",
+      "ejemplo": "Вдруг он увидел женщину в красном шарфе..."
+    },
+    {
+      "termino": "Кстати",
+      "explicacion": "Союз, используемый для добавления дополнительной информации или легкой смены темы.",
+      "ejemplo": "Он волновался... Кстати, мне очень нравится твой шарф..."
+    },
+    {
+      "termino": "В этот момент",
+      "explicacion": "Временной союз, указывающий на конкретный момент в последовательности событий.",
+      "ejemplo": "Педро почувствовал, как его лицо покраснело... В этот момент он услышал знакомый смех..."
+    },
+    {
+      "termino": "Несмотря на",
+      "explicacion": "Уступительный союз, указывающий, что что-то происходит, даже когда есть препятствие или неблагоприятное обстоятельство.",
+      "ejemplo": "Несмотря на смущение, это хорошая история."
+    }
+  ],
+  "verbos": [
+    {
+      "termino": "обсуждать",
+      "explicacion": "Глагол, означающий говорить на тему с другим человеком, обмениваясь идеями или мнениями.",
+      "ejemplo": "У него была встреча с подругой Соней, чтобы обсудить важный проект."
+    },
+    {
+      "termino": "ждать",
+      "explicacion": "Глагол, означающий оставаться на месте, пока что-то не произойдет или кто-то не придет.",
+      "ejemplo": "Он сел за маленький столик... и решил подождать."
+    },
+    {
+      "termino": "прерывать",
+      "explicacion": "Глагол, означающий прервать или остановить чье-либо действие или речь.",
+      "ejemplo": "Женщина наконец прервала его: 'Извините, сеньор...'"
+    },
+    {
+      "termino": "воскликнуть",
+      "explicacion": "Глагол, означающий сказать что-то с силой и эмоцией, обычно удивлением или радостью.",
+      "ejemplo": "'Педро, ты здесь!' — воскликнула Соня со смехом."
+    },
+    {
+      "termino": "позволять",
+      "explicacion": "Глагол, означающий давать разрешение или возможность для того, чтобы что-то произошло.",
+      "ejemplo": "Мы не можем позволить, чтобы время продолжало уходить."
+    }
+  ],
+  "adjetivos": [
+    {
+      "termino": "удивительный",
+      "explicacion": "Прилагательное, описывающее что-то, что вызывает большое удивление или восхищение.",
+      "ejemplo": "Аромат свежеобжаренного кофе был просто удивительным."
+    },
+    {
+      "termino": "важный",
+      "explicacion": "Прилагательное, указывающее, что что-то имеет большую ценность, значение или последствия.",
+      "ejemplo": "Чтобы обсудить важный проект об окружающей среде."
+    },
+    {
+      "termino": "странная",
+      "explicacion": "Прилагательное, описывающее что-то странное, необычное или вызывающее недоумение.",
+      "ejemplo": "Женщина посмотрела на него с очень странным выражением лица."
+    },
+    {
+      "termino": "невинный",
+      "explicacion": "Прилагательное, описывающее что-то сделанное без злого умысла или вины.",
+      "ejemplo": "Увидев, что это всего лишь невинное недоразумение."
+    },
+    {
+      "termino": "застенчивый",
+      "explicacion": "Прилагательное, описывающее человека стеснительного или действующего сдержанно.",
+      "ejemplo": "Педро смотрел на другой столик и застенчиво улыбался."
+    }
+  ],
+  "sustantivos_clave": [
+    {
+      "termino": "кафе",
+      "explicacion": "Место, где подают и пьют кофе и другие напитки, часто с легкой закуской.",
+      "ejemplo": "Педро пришел в кафе 'Золотое Зерно'."
+    },
+    {
+      "termino": "проект",
+      "explicacion": "План или набор организованных мероприятий для достижения конкретной цели.",
+      "ejemplo": "Чтобы обсудить важный проект об окружающей среде."
+    },
+    {
+      "termino": "шарф",
+      "explicacion": "Предмет одежды, обычно длинный и из ткани, который носят вокруг шеи для тепла.",
+      "ejemplo": "Увидел женщину в красном шарфе, входящую в заведение."
+    },
+    {
+      "termino": "смущение",
+      "explicacion": "Чувство неловкости или унижения, вызванное собственным действием, считающимся неуместным.",
+      "ejemplo": "Педро почувствовал, как его лицо покраснело от смущения."
+    },
+    {
+      "termino": "недоразумение",
+      "explicacion": "Ситуация, в которой человек неправильно интерпретирует слова или действия другого.",
+      "ejemplo": "Увидев, что это всего лишь невинное недоразумение."
+    },
+    {
+      "termino": "история",
+      "explicacion": "Краткий и любопытный рассказ о реальном событии, обычно личном или забавном.",
+      "ejemplo": "Несмотря на смущение, это хорошая история."
+    }
+  ],
+  "expresiones_idiomaticas": [
+    {
+      "termino": "витать в облаках",
+      "explicacion": "Выражение, означающее быть рассеянным, думать о других вещах и не обращать внимания на реальность.",
+      "ejemplo": "Однако Педро часто витает в облаках, когда у него много мыслей в голове."
+    },
+    {
+      "termino": "взяться за ум",
+      "explicacion": "Выражение, означающее приложить больше усилий, активизироваться или начать работать с энергией и усердием.",
+      "ejemplo": "Ну, нам нужно взяться за ум с проектом."
+    },
+    {
+      "termino": "сесть в лужу",
+      "explicacion": "Выражение, означающее совершить ошибку, сказать или сделать что-то неуместное, что вызывает проблему или смущение.",
+      "ejemplo": "Я действительно сел в лужу. Я был так поглощен своими мыслями..."
+    }
+  ],
+  "funciones_comunicativas": [
+    {
+      "termino": "Извиняться / Просить прощения",
+      "explicacion": "Выражать сожаление о совершенном действии и просить прощения у другого человека.",
+      "ejemplo": "Педро тут же встал и извинился перед незнакомкой. 'Мне очень жаль!'"
+    },
+    {
+      "termino": "Выражать замешательство или незнание",
+      "explicacion": "Проявлять, что ситуация не понятна или что нет информации о чем-то или о ком-то.",
+      "ejemplo": "'Извините, сеньор... я не знаю, кто вы. Думаю, вы принимаете меня за другого человека.'"
+    },
+    {
+      "termino": "Давать дружеский совет или предложение",
+      "explicacion": "Предлагать идею или действие вежливым образом, чтобы помочь или улучшить ситуацию.",
+      "ejemplo": "'Не беспокойтесь — ответила она —. Иногда такое случается. Возможно, вам нужен кофе покрепче, чтобы проснуться.'"
+    }
+  ],
+  "palabras_clave": [
+    "кафе",
+    "встреча",
+    "проект",
+    "рассеянный",
+    "шарф",
+    "путать",
+    "смущение",
+    "извинения",
+    "недоразумение",
+    "история",
+    "концентрироваться",
+    "планшет",
+    "выражение",
+    "испуганная",
+    "работать",
+    "забывать",
+    "застенчивость",
+    "облегченный",
+    "транспорт",
+    "документы"
+  ],
+  "narrativa": "Un Café con Confusión\nPedro llegó a la cafetería 'El Grano de Oro' a las cinco de la tarde. El lugar estaba lleno de gente joven trabajando en sus computadoras y el aroma a café recién tostado era simplemente asombroso. Él tenía una cita con su amiga Sonia para discutir un proyecto importante sobre el medio ambiente. Sin embargo, Pedro suele estar en las nubes cuando tiene muchas cosas en la cabeza.\nSe sentó en una mesa pequeña cerca de la ventana y decidió esperar. Mientras tanto, sacó su tableta para revisar unos documentos. De repente, vio a una mujer con una bufanda roja entrar al local. '¡Esa debe ser Sonia!', pensó Pedro con entusiasmo. Ella se sentó en una mesa al fondo y pidió un capuchino. Pedro se levantó, caminó hacia ella y, sin decir una palabra, se sentó frente a ella con una gran sonrisa.\n—¡Hola! Qué bueno que lograste llegar —dijo Pedro muy animado—. Estaba preocupado porque el tráfico hoy es un desastre. Por cierto, me encanta tu bufanda, te queda muy bien.\nLa mujer lo miró con una expresión muy extraña. Parecía confundida y un poco asustada. Pedro, sin darse cuenta del error, continuó hablando rápidamente:\n—Bueno, tenemos que ponernos las pilas con el proyecto. El director espera que logremos desarrollar la propuesta para el lunes. ¿Trajiste los apuntes que te pedí?\nLa mujer finalmente interrumpió:\n—Disculpe, señor... no sé quién es usted. Creo que me está confundiendo con otra persona. De hecho, yo no me llamo Sonia y no trabajo en ningún proyecto.\nPedro sintió que la cara se le ponía roja de la vergüenza. En ese momento, escuchó una risa familiar detrás de él. Era Sonia, la verdadera Sonia, que estaba sentada en la mesa de al lado observando toda la escena.\n—Pedro, ¡estás aquí! —exclamó Sonia entre risas—. Te vi entrar, pero estabas tan distraído que no me viste.\nPedro se levantó de inmediato y le pidió disculpas a la desconocida.\n—¡Lo siento muchísimo! —dijo Pedro con amabilidad—. De verdad metí la pata. Estaba tan concentrado en mis pensamientos que no me fijé bien en su rostro. Por favor, discúlpeme.\nLa mujer sonrió con suavidad al ver que solo era un malentendido inocente.\n—No se preocupe —respondió ella—. A veces sucede. A lo mejor usted necesita un café más fuerte para despertar.\nPedro regresó a la mesa con Sonia, sintiéndose un poco tonto pero aliviado.\n—A pesar de la vergüenza, esto es una buena anécdota —comentó Sonia—. Pero ahora, en serio, debemos concentrarnos. No podemos permitir que el tiempo siga pasando.\nAmbos empezaron a trabajar, aunque de vez en cuando, Pedro miraba hacia la otra mesa y sonreía con timidez. Definitivamente, ese sería un día difícil de olvidar."
+}

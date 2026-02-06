@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "titulo_historia": "تحليل لغوي",
+    "autor": "Usuario",
+    "fecha": "2026-02-04"
+  },
+  "titulo": "تحليل لغوي",
+  "conectores_logicos": [
+    {
+      "termino": "ومع ذلك",
+      "explicacion": "أداة ربط تعارضية تقدم فكرة معاكسة لما ذُكر سابقًا.",
+      "ejemplo": "كان لديه موعد... ومع ذلك، بيدرو عادة ما يكون غارقًا في أحلام اليقظة."
+    },
+    {
+      "termino": "في هذه الأثناء",
+      "explicacion": "أداة ربط زمنية تشير إلى حدوث فعل بالتزامن مع فعل آخر.",
+      "ejemplo": "قرر الانتظار. في هذه الأثناء، أخرج لوحته الإلكترونية..."
+    },
+    {
+      "termino": "فجأة",
+      "explicacion": "أداة ربط تقدم حدثًا غير متوقع أو يحدث بشكل مفاجئ.",
+      "ejemplo": "فجأة، رأى امرأة ترتدي وشاحًا أحمر..."
+    },
+    {
+      "termino": "بالمناسبة",
+      "explicacion": "أداة ربط تُستخدم لإضافة معلومات إضافية أو تغيير الموضوع قليلاً.",
+      "ejemplo": "كان قلقًا... بالمناسبة، أحب وشاحك..."
+    },
+    {
+      "termino": "في تلك اللحظة",
+      "explicacion": "أداة ربط زمنية تشير إلى لحظة محددة في تسلسل الأحداث.",
+      "ejemplo": "شعر بيدرو أن وجهه يحمر خجلاً... في تلك اللحظة، سمع ضحكة مألوفة..."
+    },
+    {
+      "termino": "على الرغم من",
+      "explicacion": "أداة ربط تنازلية تشير إلى حدوث شيء ما على الرغم من وجود عائق أو ظرف معاكس.",
+      "ejemplo": "على الرغم من الإحراج، هذه قصة طريفة جيدة."
+    }
+  ],
+  "verbos": [
+    {
+      "termino": "مناقشة",
+      "explicacion": "فعل يعني التحدث عن موضوع مع شخص آخر، وتبادل الأفكار أو الآراء.",
+      "ejemplo": "كان لديه موعد مع صديقته سونيا لمناقشة مشروع مهم."
+    },
+    {
+      "termino": "انتظار",
+      "explicacion": "فعل يعني البقاء في مكان ما حتى يحدث شيء أو يصل شخص ما.",
+      "ejemplo": "جلس على طاولة صغيرة... وقرر الانتظار."
+    },
+    {
+      "termino": "مقاطعة",
+      "explicacion": "فعل يعني قطع أو إيقاف فعل أو حديث شخص ما.",
+      "ejemplo": "أخيرًا قاطعته المرأة قائلة: 'عذرًا، سيدي...'"
+    },
+    {
+      "termino": "صرخ",
+      "explicacion": "فعل يعني قول شيء بقوة وعاطفة، عادةً دهشة أو فرح.",
+      "ejemplo": "'بيدرو، أنت هنا!' —صرخت سونيا بين ضحكاتها."
+    },
+    {
+      "termino": "السماح",
+      "explicacion": "فعل يعني منح الإذن أو إتاحة إمكانية حدوث شيء ما.",
+      "ejemplo": "لا يمكننا السماح بمرور الوقت أكثر من ذلك."
+    }
+  ],
+  "adjetivos": [
+    {
+      "termino": "مذهل",
+      "explicacion": "صفة تصف شيئًا يسبب دهشة أو إعجابًا كبيرًا.",
+      "ejemplo": "كانت رائحة القهوة المحمصة حديثًا ببساطة مذهلة."
+    },
+    {
+      "termino": "مهم",
+      "explicacion": "صفة تشير إلى أن لشيء ما قيمة أو معنى أو عاقبة كبيرة.",
+      "ejemplo": "لمناقشة مشروع مهم حول البيئة."
+    },
+    {
+      "termino": "غريبة",
+      "explicacion": "صفة تصف شيئًا غريبًا، غير شائع، أو يسبب حيرة.",
+      "ejemplo": "نظرت إليه المرأة بتعبير وجه غريب جدًا."
+    },
+    {
+      "termino": "بريء",
+      "explicacion": "صفة تصف شيئًا يُفعل دون نية سيئة أو دون ذنب.",
+      "ejemplo": "عندما رأت أنه كان مجرد سوء فهم بريء."
+    },
+    {
+      "termino": "خجول",
+      "explicacion": "صفة تصف شخصًا يشعر بالخجل أو يتصرف بحذر.",
+      "ejemplo": "كان بيدرو ينظر إلى الطاولة الأخرى ويبتسم بخجل."
+    }
+  ],
+  "sustantivos_clave": [
+    {
+      "termino": "مقهى",
+      "explicacion": "مكان يُقدّم ويُستهلك فيه القهوة ومشروبات أخرى، غالبًا مع وجبات خفيفة.",
+      "ejemplo": "وصل بيدرو إلى مقهى 'حبة الذهب'."
+    },
+    {
+      "termino": "مشروع",
+      "explicacion": "خطة أو مجموعة من الأنشطة المنظمة لتحقيق هدف محدد.",
+      "ejemplo": "لمناقشة مشروع مهم حول البيئة."
+    },
+    {
+      "termino": "وشاح",
+      "explicacion": "قطعة ملابس، عادةً طويلة ومصنوعة من القماش، تُلف حول الرقبة للتدفئة.",
+      "ejemplo": "رأى امرأة ترتدي وشاحًا أحمر تدخل المكان."
+    },
+    {
+      "termino": "إحراج",
+      "explicacion": "شعور بعدم الراحة أو الإهانة ناتج عن فعل خاص يُعتبر غير لائق.",
+      "ejemplo": "شعر بيدرو أن وجهه يحمر من الإحراج."
+    },
+    {
+      "termino": "سوء فهم",
+      "explicacion": "موقف يفسر فيه الشخص كلمات أو أفعال شخص آخر بشكل خاطئ.",
+      "ejemplo": "عندما رأت أنه كان مجرد سوء فهم بريء."
+    },
+    {
+      "termino": "قصة طريفة",
+      "explicacion": "رواية قصيرة وطريفة لحدث حقيقي، عادةً شخصي أو مضحك.",
+      "ejemplo": "على الرغم من الإحراج، هذه قصة طريفة جيدة."
+    }
+  ],
+  "expresiones_idiomaticas": [
+    {
+      "termino": "يكون غارقًا في أحلام اليقظة",
+      "explicacion": "تعبير يعني أن يكون الشخص مشتت الذهن، يفكر في أمور أخرى ولا ينتبه للواقع.",
+      "ejemplo": "ومع ذلك، بيدرو عادة ما يكون غارقًا في أحلام اليقظة عندما يكون لديه الكثير من الأمور في رأسه."
+    },
+    {
+      "termino": "يضع البطاريات",
+      "explicacion": "تعبير يعني بذل جهد أكبر، النشاط، أو البدء بالعمل بطاقة واجتهاد.",
+      "ejemplo": "حسنًا، علينا أن نضع البطاريات في المشروع."
+    },
+    {
+      "termino": "يضع قدمه في فمه",
+      "explicacion": "تعبير يعني ارتكاب خطأ، قول أو فعل شيء غير لائق يسبب مشكلة أو إحراجًا.",
+      "ejemplo": "حقًا وضعت قدمي في فمي. كنت مركزًا جدًا في أفكاري..."
+    }
+  ],
+  "funciones_comunicativas": [
+    {
+      "termino": "الاعتذار / طلب السماح",
+      "explicacion": "التعبير عن الندم على فعل تم ارتكابه وطلب السماح من الشخص الآخر.",
+      "ejemplo": "نهض بيدرو على الفور وطلب السماح من الغريبة. 'أنا آسف جدًا!'"
+    },
+    {
+      "termino": "التعبير عن الحيرة أو الجهل",
+      "explicacion": "إظهار عدم فهم الموقف أو عدم امتلاك معلومات عن شيء أو شخص ما.",
+      "ejemplo": "'عذرًا، سيدي... لا أعرف من أنت. أعتقد أنك تخلطني بشخص آخر.'"
+    },
+    {
+      "termino": "تقديم اقتراح أو نصيحة بلطف",
+      "explicacion": "اقتراح فكرة أو فعل بطريقة مهذبة للمساعدة أو تحسين الموقف.",
+      "ejemplo": "'لا تقلق —أجابت—. أحيانًا يحدث ذلك. ربما تحتاج إلى قهوة أقوى لتستيقظ.'"
+    }
+  ],
+  "palabras_clave": [
+    "مقهى",
+    "موعد",
+    "مشروع",
+    "مشتت الذهن",
+    "وشاح",
+    "الخلط",
+    "إحراج",
+    "اعتذارات",
+    "سوء فهم",
+    "قصة طريفة",
+    "التركيز",
+    "لوح إلكتروني",
+    "تعبير",
+    "خائفة",
+    "العمل",
+    "نسيان",
+    "خجل",
+    "مرتاح",
+    "مرور",
+    "وثائق"
+  ],
+  "narrativa": "Un Café con Confusión\nPedro llegó a la cafetería 'El Grano de Oro' a las cinco de la tarde. El lugar estaba lleno de gente joven trabajando en sus computadoras y el aroma a café recién tostado era simplemente asombroso. Él tenía una cita con su amiga Sonia para discutir un proyecto importante sobre el medio ambiente. Sin embargo, Pedro suele estar en las nubes cuando tiene muchas cosas en la cabeza.\nSe sentó en una mesa pequeña cerca de la ventana y decidió esperar. Mientras tanto, sacó su tableta para revisar unos documentos. De repente, vio a una mujer con una bufanda roja entrar al local. '¡Esa debe ser Sonia!', pensó Pedro con entusiasmo. Ella se sentó en una mesa al fondo y pidió un capuchino. Pedro se levantó, caminó hacia ella y, sin decir una palabra, se sentó frente a ella con una gran sonrisa.\n—¡Hola! Qué bueno que lograste llegar —dijo Pedro muy animado—. Estaba preocupado porque el tráfico hoy es un desastre. Por cierto, me encanta tu bufanda, te queda muy bien.\nLa mujer lo miró con una expresión muy extraña. Parecía confundida y un poco asustada. Pedro, sin darse cuenta del error, continuó hablando rápidamente:\n—Bueno, tenemos que ponernos las pilas con el proyecto. El director espera que logremos desarrollar la propuesta para el lunes. ¿Trajiste los apuntes que te pedí?\nLa mujer finalmente interrumpió:\n—Disculpe, señor... no sé quién es usted. Creo que me está confundiendo con otra persona. De hecho, yo no me llamo Sonia y no trabajo en ningún proyecto.\nPedro sintió que la cara se le ponía roja de la vergüenza. En ese momento, escuchó una risa familiar detrás de él. Era Sonia, la verdadera Sonia, que estaba sentada en la mesa de al lado observando toda la escena.\n—Pedro, ¡estás aquí! —exclamó Sonia entre risas—. Te vi entrar, pero estabas tan distraído que no me viste.\nPedro se levantó de inmediato y le pidió disculpas a la desconocida.\n—¡Lo siento muchísimo! —dijo Pedro con amabilidad—. De verdad metí la pata. Estaba tan concentrado en mis pensamientos que no me fijé bien en su rostro. Por favor, discúlpeme.\nLa mujer sonrió con suavidad al ver que solo era un malentendido inocente.\n—No se preocupe —respondió ella—. A veces sucede. A lo mejor usted necesita un café más fuerte para despertar.\nPedro regresó a la mesa con Sonia, sintiéndose un poco tonto pero aliviado.\n—A pesar de la vergüenza, esto es una buena anécdota —comentó Sonia—. Pero ahora, en serio, debemos concentrarnos. No podemos permitir que el tiempo siga pasando.\nAmbos empezaron a trabajar, aunque de vez en cuando, Pedro miraba hacia la otra mesa y sonreía con timidez. Definitivamente, ese sería un día difícil de olvidar."
+}

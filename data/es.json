@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "titulo_historia": "Análisis Lingüístico",
+    "autor": "Usuario",
+    "fecha": "2026-02-04"
+  },
+  "titulo": "Análisis Lingüístico",
+  "conectores_logicos": [
+    {
+      "termino": "Sin embargo",
+      "explicacion": "Conector de contraste que introduce una idea opuesta a lo mencionado antes.",
+      "ejemplo": "Él tenía una cita... Sin embargo, Pedro suele estar en las nubes."
+    },
+    {
+      "termino": "Mientras tanto",
+      "explicacion": "Conector temporal que indica una acción simultánea a otra.",
+      "ejemplo": "Decidió esperar. Mientras tanto, sacó su tableta..."
+    },
+    {
+      "termino": "De repente",
+      "explicacion": "Conector que introduce un evento inesperado o que ocurre de forma brusca.",
+      "ejemplo": "De repente, vio a una mujer con una bufanda roja..."
+    },
+    {
+      "termino": "Por cierto",
+      "explicacion": "Conector que se usa para añadir información adicional o cambiar ligeramente de tema.",
+      "ejemplo": "Estaba preocupado... Por cierto, me encanta tu bufanda..."
+    },
+    {
+      "termino": "En ese momento",
+      "explicacion": "Conector temporal que señala un instante específico en la secuencia de eventos.",
+      "ejemplo": "Pedro sintió que la cara se le ponía roja... En ese momento, escuchó una risa familiar..."
+    },
+    {
+      "termino": "A pesar de",
+      "explicacion": "Conector concesivo que indica que algo sucede aun cuando hay un obstáculo o circunstancia contraria.",
+      "ejemplo": "A pesar de la vergüenza, esto es una buena anécdota."
+    }
+  ],
+  "verbos": [
+    {
+      "termino": "discutir",
+      "explicacion": "Verbo que significa hablar sobre un tema con otra persona, intercambiando ideas u opiniones.",
+      "ejemplo": "Él tenía una cita con su amiga Sonia para discutir un proyecto importante."
+    },
+    {
+      "termino": "esperar",
+      "explicacion": "Verbo que significa permanecer en un lugar hasta que algo suceda o alguien llegue.",
+      "ejemplo": "Se sentó en una mesa pequeña... y decidió esperar."
+    },
+    {
+      "termino": "interrumpir",
+      "explicacion": "Verbo que significa cortar o detener la acción o el discurso de alguien.",
+      "ejemplo": "La mujer finalmente interrumpió: 'Disculpe, señor...'"
+    },
+    {
+      "termino": "exclamar",
+      "explicacion": "Verbo que significa decir algo con fuerza y emoción, generalmente sorpresa o alegría.",
+      "ejemplo": "'Pedro, ¡estás aquí!' —exclamó Sonia entre risas."
+    },
+    {
+      "termino": "permitir",
+      "explicacion": "Verbo que significa dar autorización o posibilidad para que algo ocurra.",
+      "ejemplo": "No podemos permitir que el tiempo siga pasando."
+    }
+  ],
+  "adjetivos": [
+    {
+      "termino": "asombroso",
+      "explicacion": "Adjetivo que describe algo que causa gran sorpresa o admiración.",
+      "ejemplo": "El aroma a café recién tostado era simplemente asombroso."
+    },
+    {
+      "termino": "importante",
+      "explicacion": "Adjetivo que indica que algo tiene gran valor, significado o consecuencia.",
+      "ejemplo": "Para discutir un proyecto importante sobre el medio ambiente."
+    },
+    {
+      "termino": "extraña",
+      "explicacion": "Adjetivo que describe algo raro, poco común o que causa desconcierto.",
+      "ejemplo": "La mujer lo miró con una expresión muy extraña."
+    },
+    {
+      "termino": "inocente",
+      "explicacion": "Adjetivo que describe algo que se hace sin mala intención o sin culpa.",
+      "ejemplo": "Al ver que solo era un malentendido inocente."
+    },
+    {
+      "termino": "tímido",
+      "explicacion": "Adjetivo que describe a una persona vergonzosa o que actúa con reserva.",
+      "ejemplo": "Pedro miraba hacia la otra mesa y sonreía con timidez."
+    }
+  ],
+  "sustantivos_clave": [
+    {
+      "termino": "cafetería",
+      "explicacion": "Lugar donde se sirven y consumen café y otras bebidas, a menudo con comida ligera.",
+      "ejemplo": "Pedro llegó a la cafetería 'El Grano de Oro'."
+    },
+    {
+      "termino": "proyecto",
+      "explicacion": "Plan o conjunto de actividades organizadas para lograr un objetivo específico.",
+      "ejemplo": "Para discutir un proyecto importante sobre el medio ambiente."
+    },
+    {
+      "termino": "bufanda",
+      "explicacion": "Prenda de vestir, generalmente larga y de tela, que se usa alrededor del cuello para abrigarse.",
+      "ejemplo": "Vio a una mujer con una bufanda roja entrar al local."
+    },
+    {
+      "termino": "vergüenza",
+      "explicacion": "Sentimiento de incomodidad o humillación causado por una acción propia considerada inapropiada.",
+      "ejemplo": "Pedro sintió que la cara se le ponía roja de la vergüenza."
+    },
+    {
+      "termino": "malentendido",
+      "explicacion": "Situación en la que una persona interpreta incorrectamente las palabras o acciones de otra.",
+      "ejemplo": "Al ver que solo era un malentendido inocente."
+    },
+    {
+      "termino": "anécdota",
+      "explicacion": "Relato breve y curioso de un suceso real, generalmente personal o divertido.",
+      "ejemplo": "A pesar de la vergüenza, esto es una buena anécdota."
+    }
+  ],
+  "expresiones_idiomaticas": [
+    {
+      "termino": "estar en las nubes",
+      "explicacion": "Expresión que significa estar distraído, pensando en otras cosas y no prestando atención a la realidad.",
+      "ejemplo": "Sin embargo, Pedro suele estar en las nubes cuando tiene muchas cosas en la cabeza."
+    },
+    {
+      "termino": "ponerse las pilas",
+      "explicacion": "Expresión que significa esforzarse más, activarse o comenzar a trabajar con energía y diligencia.",
+      "ejemplo": "Bueno, tenemos que ponernos las pilas con el proyecto."
+    },
+    {
+      "termino": "meter la pata",
+      "explicacion": "Expresión que significa cometer un error, decir o hacer algo inapropiado que causa un problema o vergüenza.",
+      "ejemplo": "De verdad metí la pata. Estaba tan concentrado en mis pensamientos..."
+    }
+  ],
+  "funciones_comunicativas": [
+    {
+      "termino": "Disculparse / Pedir perdón",
+      "explicacion": "Expresar arrepentimiento por una acción cometida y solicitar el perdón de la otra persona.",
+      "ejemplo": "Pedro se levantó de inmediato y le pidió disculpas a la desconocida. '¡Lo siento muchísimo!'"
+    },
+    {
+      "termino": "Expresar confusión o desconocimiento",
+      "explicacion": "Manifestar que no se comprende una situación o que no se tiene información sobre algo o alguien.",
+      "ejemplo": "'Disculpe, señor... no sé quién es usted. Creo que me está confundiendo con otra persona.'"
+    },
+    {
+      "termino": "Dar una sugerencia o consejo amable",
+      "explicacion": "Proponer una idea o acción de manera cortés para ayudar o mejorar una situación.",
+      "ejemplo": "'No se preocupe —respondió ella—. A veces sucede. A lo mejor usted necesita un café más fuerte para despertar.'"
+    }
+  ],
+  "palabras_clave": [
+    "cafetería",
+    "cita",
+    "proyecto",
+    "distraído",
+    "bufanda",
+    "confundir",
+    "vergüenza",
+    "disculpas",
+    "malentendido",
+    "anécdota",
+    "concentrarse",
+    "tableta",
+    "expresión",
+    "asustada",
+    "trabajar",
+    "olvidar",
+    "timidez",
+    "aliviado",
+    "tráfico",
+    "documentos"
+  ],
+  "narrativa": "Un Café con Confusión\nPedro llegó a la cafetería 'El Grano de Oro' a las cinco de la tarde. El lugar estaba lleno de gente joven trabajando en sus computadoras y el aroma a café recién tostado era simplemente asombroso. Él tenía una cita con su amiga Sonia para discutir un proyecto importante sobre el medio ambiente. Sin embargo, Pedro suele estar en las nubes cuando tiene muchas cosas en la cabeza.\nSe sentó en una mesa pequeña cerca de la ventana y decidió esperar. Mientras tanto, sacó su tableta para revisar unos documentos. De repente, vio a una mujer con una bufanda roja entrar al local. '¡Esa debe ser Sonia!', pensó Pedro con entusiasmo. Ella se sentó en una mesa al fondo y pidió un capuchino. Pedro se levantó, caminó hacia ella y, sin decir una palabra, se sentó frente a ella con una gran sonrisa.\n—¡Hola! Qué bueno que lograste llegar —dijo Pedro muy animado—. Estaba preocupado porque el tráfico hoy es un desastre. Por cierto, me encanta tu bufanda, te queda muy bien.\nLa mujer lo miró con una expresión muy extraña. Parecía confundida y un poco asustada. Pedro, sin darse cuenta del error, continuó hablando rápidamente:\n—Bueno, tenemos que ponernos las pilas con el proyecto. El director espera que logremos desarrollar la propuesta para el lunes. ¿Trajiste los apuntes que te pedí?\nLa mujer finalmente interrumpió:\n—Disculpe, señor... no sé quién es usted. Creo que me está confundiendo con otra persona. De hecho, yo no me llamo Sonia y no trabajo en ningún proyecto.\nPedro sintió que la cara se le ponía roja de la vergüenza. En ese momento, escuchó una risa familiar detrás de él. Era Sonia, la verdadera Sonia, que estaba sentada en la mesa de al lado observando toda la escena.\n—Pedro, ¡estás aquí! —exclamó Sonia entre risas—. Te vi entrar, pero estabas tan distraído que no me viste.\nPedro se levantó de inmediato y le pidió disculpas a la desconocida.\n—¡Lo siento muchísimo! —dijo Pedro con amabilidad—. De verdad metí la pata. Estaba tan concentrado en mis pensamientos que no me fijé bien en su rostro. Por favor, discúlpeme.\nLa mujer sonrió con suavidad al ver que solo era un malentendido inocente.\n—No se preocupe —respondió ella—. A veces sucede. A lo mejor usted necesita un café más fuerte para despertar.\nPedro regresó a la mesa con Sonia, sintiéndose un poco tonto pero aliviado.\n—A pesar de la vergüenza, esto es una buena anécdota —comentó Sonia—. Pero ahora, en serio, debemos concentrarnos. No podemos permitir que el tiempo siga pasando.\nAmbos empezaron a trabajar, aunque de vez en cuando, Pedro miraba hacia la otra mesa y sonreía con timidez. Definitivamente, ese sería un día difícil de olvidar."
+}

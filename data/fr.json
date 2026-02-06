@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "titulo_historia": "Analyse Linguistique",
+    "autor": "Usuario",
+    "fecha": "2026-02-04"
+  },
+  "titulo": "Analyse Linguistique",
+  "conectores_logicos": [
+    {
+      "termino": "Cependant",
+      "explicacion": "Connecteur de contraste qui introduit une idée opposée à ce qui a été mentionné auparavant.",
+      "ejemplo": "Il avait un rendez-vous... Cependant, Pedro a souvent la tête dans les nuages."
+    },
+    {
+      "termino": "Pendant ce temps",
+      "explicacion": "Connecteur temporel qui indique une action simultanée à une autre.",
+      "ejemplo": "Il décida d'attendre. Pendant ce temps, il sortit sa tablette..."
+    },
+    {
+      "termino": "Soudain",
+      "explicacion": "Connecteur qui introduit un événement inattendu ou qui se produit de manière brusque.",
+      "ejemplo": "Soudain, il vit une femme avec une écharpe rouge..."
+    },
+    {
+      "termino": "Au fait",
+      "explicacion": "Connecteur utilisé pour ajouter des informations supplémentaires ou changer légèrement de sujet.",
+      "ejemplo": "Il était inquiet... Au fait, j'adore ton écharpe..."
+    },
+    {
+      "termino": "À ce moment-là",
+      "explicacion": "Connecteur temporel qui signale un instant spécifique dans la séquence des événements.",
+      "ejemplo": "Pedro sentit son visage devenir rouge... À ce moment-là, il entendit un rire familier..."
+    },
+    {
+      "termino": "Malgré",
+      "explicacion": "Connecteur concessif qui indique que quelque chose se produit même s'il y a un obstacle ou une circonstance contraire.",
+      "ejemplo": "Malgré la honte, c'est une bonne anecdote."
+    }
+  ],
+  "verbos": [
+    {
+      "termino": "discuter",
+      "explicacion": "Verbe qui signifie parler d'un sujet avec une autre personne, en échangeant des idées ou des opinions.",
+      "ejemplo": "Il avait un rendez-vous avec son amie Sonia pour discuter d'un projet important."
+    },
+    {
+      "termino": "attendre",
+      "explicacion": "Verbe qui signifie rester à un endroit jusqu'à ce que quelque chose se produise ou que quelqu'un arrive.",
+      "ejemplo": "Il s'assit à une petite table... et décida d'attendre."
+    },
+    {
+      "termino": "interrompre",
+      "explicacion": "Verbe qui signifie couper ou arrêter l'action ou le discours de quelqu'un.",
+      "ejemplo": "La femme finit par l'interrompre : 'Excusez-moi, monsieur...'"
+    },
+    {
+      "termino": "s'exclamer",
+      "explicacion": "Verbe qui signifie dire quelque chose avec force et émotion, généralement de la surprise ou de la joie.",
+      "ejemplo": "'Pedro, tu es là !' —s'exclama Sonia en riant."
+    },
+    {
+      "termino": "permettre",
+      "explicacion": "Verbe qui signifie donner l'autorisation ou la possibilité que quelque chose se produise.",
+      "ejemplo": "Nous ne pouvons pas permettre que le temps continue de passer."
+    }
+  ],
+  "adjetivos": [
+    {
+      "termino": "étonnant",
+      "explicacion": "Adjectif qui décrit quelque chose qui cause une grande surprise ou admiration.",
+      "ejemplo": "L'arôme du café fraîchement torréfié était simplement étonnant."
+    },
+    {
+      "termino": "important",
+      "explicacion": "Adjectif qui indique que quelque chose a une grande valeur, signification ou conséquence.",
+      "ejemplo": "Pour discuter d'un projet important sur l'environnement."
+    },
+    {
+      "termino": "étrange",
+      "explicacion": "Adjectif qui décrit quelque chose de rare, peu commun ou qui cause de la perplexité.",
+      "ejemplo": "La femme le regarda avec une expression très étrange."
+    },
+    {
+      "termino": "innocent",
+      "explicacion": "Adjectif qui décrit quelque chose qui est fait sans mauvaise intention ou sans culpabilité.",
+      "ejemplo": "En voyant que ce n'était qu'un malentendu innocent."
+    },
+    {
+      "termino": "timide",
+      "explicacion": "Adjectif qui décrit une personne réservée ou qui agit avec retenue.",
+      "ejemplo": "Pedro regardait vers l'autre table et souriait timidement."
+    }
+  ],
+  "sustantivos_clave": [
+    {
+      "termino": "cafétéria",
+      "explicacion": "Lieu où l'on sert et consomme du café et d'autres boissons, souvent avec de la nourriture légère.",
+      "ejemplo": "Pedro arriva à la cafétéria 'El Grano de Oro'."
+    },
+    {
+      "termino": "projet",
+      "explicacion": "Plan ou ensemble d'activités organisées pour atteindre un objectif spécifique.",
+      "ejemplo": "Pour discuter d'un projet important sur l'environnement."
+    },
+    {
+      "termino": "écharpe",
+      "explicacion": "Vêtement, généralement long et en tissu, que l'on porte autour du cou pour se réchauffer.",
+      "ejemplo": "Il vit une femme avec une écharpe rouge entrer dans l'établissement."
+    },
+    {
+      "termino": "honte",
+      "explicacion": "Sentiment de gêne ou d'humiliation causé par une action personnelle considérée comme inappropriée.",
+      "ejemplo": "Pedro sentit son visage devenir rouge de honte."
+    },
+    {
+      "termino": "malentendu",
+      "explicacion": "Situation dans laquelle une personne interprète incorrectement les paroles ou les actions d'une autre.",
+      "ejemplo": "En voyant que ce n'était qu'un malentendu innocent."
+    },
+    {
+      "termino": "anecdote",
+      "explicacion": "Récit bref et curieux d'un événement réel, généralement personnel ou amusant.",
+      "ejemplo": "Malgré la honte, c'est une bonne anecdote."
+    }
+  ],
+  "expresiones_idiomaticas": [
+    {
+      "termino": "avoir la tête dans les nuages",
+      "explicacion": "Expression qui signifie être distrait, penser à autre chose et ne pas prêter attention à la réalité.",
+      "ejemplo": "Cependant, Pedro a souvent la tête dans les nuages quand il a beaucoup de choses en tête."
+    },
+    {
+      "termino": "se mettre au travail / s'y mettre sérieusement",
+      "explicacion": "Expression qui signifie faire plus d'efforts, s'activer ou commencer à travailler avec énergie et diligence.",
+      "ejemplo": "Bon, nous devons nous mettre au travail sérieusement avec le projet."
+    },
+    {
+      "termino": "mettre les pieds dans le plat",
+      "explicacion": "Expression qui signifie commettre une erreur, dire ou faire quelque chose d'inapproprié qui cause un problème ou de la honte.",
+      "ejemplo": "J'ai vraiment mis les pieds dans le plat. J'étais tellement concentré sur mes pensées..."
+    }
+  ],
+  "funciones_comunicativas": [
+    {
+      "termino": "S'excuser / Demander pardon",
+      "explicacion": "Exprimer des regrets pour une action commise et demander le pardon de l'autre personne.",
+      "ejemplo": "Pedro se leva immédiatement et s'excusa auprès de l'inconnue. 'Je suis vraiment désolé !'"
+    },
+    {
+      "termino": "Exprimer la confusion ou l'ignorance",
+      "explicacion": "Manifester que l'on ne comprend pas une situation ou que l'on n'a pas d'informations sur quelque chose ou quelqu'un.",
+      "ejemplo": "'Excusez-moi, monsieur... je ne sais pas qui vous êtes. Je crois que vous me confondez avec quelqu'un d'autre.'"
+    },
+    {
+      "termino": "Donner une suggestion ou un conseil aimable",
+      "explicacion": "Proposer une idée ou une action de manière polie pour aider ou améliorer une situation.",
+      "ejemplo": "'Ne vous inquiétez pas —répondit-elle—. Cela arrive parfois. Peut-être avez-vous besoin d'un café plus fort pour vous réveiller.'"
+    }
+  ],
+  "palabras_clave": [
+    "cafétéria",
+    "rendez-vous",
+    "projet",
+    "distrait",
+    "écharpe",
+    "confondre",
+    "honte",
+    "excuses",
+    "malentendu",
+    "anecdote",
+    "se concentrer",
+    "tablette",
+    "expression",
+    "effrayée",
+    "travailler",
+    "oublier",
+    "timidité",
+    "soulagé",
+    "trafic",
+    "documents"
+  ],
+  "narrativa": "Un Café con Confusión\nPedro llegó a la cafetería 'El Grano de Oro' a las cinco de la tarde. El lugar estaba lleno de gente joven trabajando en sus computadoras y el aroma a café recién tostado era simplemente asombroso. Él tenía una cita con su amiga Sonia para discutir un proyecto importante sobre el medio ambiente. Sin embargo, Pedro suele estar en las nubes cuando tiene muchas cosas en la cabeza.\nSe sentó en una mesa pequeña cerca de la ventana y decidió esperar. Mientras tanto, sacó su tableta para revisar unos documentos. De repente, vio a una mujer con una bufanda roja entrar al local. '¡Esa debe ser Sonia!', pensó Pedro con entusiasmo. Ella se sentó en una mesa al fondo y pidió un capuchino. Pedro se levantó, caminó hacia ella y, sin decir una palabra, se sentó frente a ella con una gran sonrisa.\n—¡Hola! Qué bueno que lograste llegar —dijo Pedro muy animado—. Estaba preocupado porque el tráfico hoy es un desastre. Por cierto, me encanta tu bufanda, te queda muy bien.\nLa mujer lo miró con una expresión muy extraña. Parecía confundida y un poco asustada. Pedro, sin darse cuenta del error, continuó hablando rápidamente:\n—Bueno, tenemos que ponernos las pilas con el proyecto. El director espera que logremos desarrollar la propuesta para el lunes. ¿Trajiste los apuntes que te pedí?\nLa mujer finalmente interrumpió:\n—Disculpe, señor... no sé quién es usted. Creo que me está confundiendo con otra persona. De hecho, yo no me llamo Sonia y no trabajo en ningún proyecto.\nPedro sintió que la cara se le ponía roja de la vergüenza. En ese momento, escuchó una risa familiar detrás de él. Era Sonia, la verdadera Sonia, que estaba sentada en la mesa de al lado observando toda la escena.\n—Pedro, ¡estás aquí! —exclamó Sonia entre risas—. Te vi entrar, pero estabas tan distraído que no me viste.\nPedro se levantó de inmediato y le pidió disculpas a la desconocida.\n—¡Lo siento muchísimo! —dijo Pedro con amabilidad—. De verdad metí la pata. Estaba tan concentrado en mis pensamientos que no me fijé bien en su rostro. Por favor, discúlpeme.\nLa mujer sonrió con suavidad al ver que solo era un malentendido inocente.\n—No se preocupe —respondió ella—. A veces sucede. A lo mejor usted necesita un café más fuerte para despertar.\nPedro regresó a la mesa con Sonia, sintiéndose un poco tonto pero aliviado.\n—A pesar de la vergüenza, esto es una buena anécdota —comentó Sonia—. Pero ahora, en serio, debemos concentrarnos. No podemos permitir que el tiempo siga pasando.\nAmbos empezaron a trabajar, aunque de vez en cuando, Pedro miraba hacia la otra mesa y sonreía con timidez. Definitivamente, ese sería un día difícil de olvidar."
+}

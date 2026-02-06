@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "titulo_historia": "Linguistic Analysis",
+    "autor": "Usuario",
+    "fecha": "2026-02-04"
+  },
+  "titulo": "Linguistic Analysis",
+  "conectores_logicos": [
+    {
+      "termino": "However",
+      "explicacion": "Contrast connector that introduces an idea opposite to what was mentioned before.",
+      "ejemplo": "He had an appointment... However, Pedro tends to have his head in the clouds."
+    },
+    {
+      "termino": "Meanwhile",
+      "explicacion": "Temporal connector that indicates an action simultaneous to another.",
+      "ejemplo": "He decided to wait. Meanwhile, he took out his tablet..."
+    },
+    {
+      "termino": "Suddenly",
+      "explicacion": "Connector that introduces an unexpected event or one that happens abruptly.",
+      "ejemplo": "Suddenly, he saw a woman with a red scarf..."
+    },
+    {
+      "termino": "By the way",
+      "explicacion": "Connector used to add additional information or slightly change the topic.",
+      "ejemplo": "He was worried... By the way, I love your scarf..."
+    },
+    {
+      "termino": "At that moment",
+      "explicacion": "Temporal connector that points to a specific instant in the sequence of events.",
+      "ejemplo": "Pedro felt his face turning red... At that moment, he heard a familiar laugh..."
+    },
+    {
+      "termino": "Despite",
+      "explicacion": "Concessive connector that indicates something happens even when there is an obstacle or contrary circumstance.",
+      "ejemplo": "Despite the embarrassment, this is a good anecdote."
+    }
+  ],
+  "verbos": [
+    {
+      "termino": "discuss",
+      "explicacion": "Verb meaning to talk about a topic with another person, exchanging ideas or opinions.",
+      "ejemplo": "He had an appointment with his friend Sonia to discuss an important project."
+    },
+    {
+      "termino": "wait",
+      "explicacion": "Verb meaning to remain in a place until something happens or someone arrives.",
+      "ejemplo": "He sat at a small table... and decided to wait."
+    },
+    {
+      "termino": "interrupt",
+      "explicacion": "Verb meaning to cut off or stop someone's action or speech.",
+      "ejemplo": "The woman finally interrupted: 'Excuse me, sir...'"
+    },
+    {
+      "termino": "exclaim",
+      "explicacion": "Verb meaning to say something with force and emotion, usually surprise or joy.",
+      "ejemplo": "'Pedro, you're here!' —exclaimed Sonia between laughs."
+    },
+    {
+      "termino": "allow",
+      "explicacion": "Verb meaning to give authorization or possibility for something to happen.",
+      "ejemplo": "We cannot allow time to keep passing."
+    }
+  ],
+  "adjetivos": [
+    {
+      "termino": "amazing",
+      "explicacion": "Adjective that describes something that causes great surprise or admiration.",
+      "ejemplo": "The aroma of freshly roasted coffee was simply amazing."
+    },
+    {
+      "termino": "important",
+      "explicacion": "Adjective that indicates something has great value, meaning, or consequence.",
+      "ejemplo": "To discuss an important project about the environment."
+    },
+    {
+      "termino": "strange",
+      "explicacion": "Adjective that describes something weird, uncommon, or that causes bewilderment.",
+      "ejemplo": "The woman looked at him with a very strange expression."
+    },
+    {
+      "termino": "innocent",
+      "explicacion": "Adjective that describes something done without bad intention or guilt.",
+      "ejemplo": "Upon seeing it was only an innocent misunderstanding."
+    },
+    {
+      "termino": "shy",
+      "explicacion": "Adjective that describes a person who is bashful or acts with reserve.",
+      "ejemplo": "Pedro looked towards the other table and smiled shyly."
+    }
+  ],
+  "sustantivos_clave": [
+    {
+      "termino": "coffee shop",
+      "explicacion": "Place where coffee and other drinks are served and consumed, often with light food.",
+      "ejemplo": "Pedro arrived at the coffee shop 'El Grano de Oro'."
+    },
+    {
+      "termino": "project",
+      "explicacion": "Plan or set of organized activities to achieve a specific objective.",
+      "ejemplo": "To discuss an important project about the environment."
+    },
+    {
+      "termino": "scarf",
+      "explicacion": "Clothing item, usually long and made of fabric, worn around the neck for warmth.",
+      "ejemplo": "He saw a woman with a red scarf enter the place."
+    },
+    {
+      "termino": "embarrassment",
+      "explicacion": "Feeling of discomfort or humiliation caused by one's own action considered inappropriate.",
+      "ejemplo": "Pedro felt his face turning red with embarrassment."
+    },
+    {
+      "termino": "misunderstanding",
+      "explicacion": "Situation in which a person incorrectly interprets another's words or actions.",
+      "ejemplo": "Upon seeing it was only an innocent misunderstanding."
+    },
+    {
+      "termino": "anecdote",
+      "explicacion": "Brief and curious account of a real event, usually personal or amusing.",
+      "ejemplo": "Despite the embarrassment, this is a good anecdote."
+    }
+  ],
+  "expresiones_idiomaticas": [
+    {
+      "termino": "have one's head in the clouds",
+      "explicacion": "Expression meaning to be distracted, thinking about other things and not paying attention to reality.",
+      "ejemplo": "However, Pedro tends to have his head in the clouds when he has a lot on his mind."
+    },
+    {
+      "termino": "get one's act together",
+      "explicacion": "Expression meaning to make more effort, activate oneself, or start working with energy and diligence.",
+      "ejemplo": "Well, we have to get our act together with the project."
+    },
+    {
+      "termino": "put one's foot in it",
+      "explicacion": "Expression meaning to make a mistake, say or do something inappropriate that causes a problem or embarrassment.",
+      "ejemplo": "I really put my foot in it. I was so focused on my thoughts..."
+    }
+  ],
+  "funciones_comunicativas": [
+    {
+      "termino": "Apologize / Ask for forgiveness",
+      "explicacion": "Express regret for a committed action and request the other person's forgiveness.",
+      "ejemplo": "Pedro stood up immediately and apologized to the stranger. 'I'm so sorry!'"
+    },
+    {
+      "termino": "Express confusion or lack of knowledge",
+      "explicacion": "State that one does not understand a situation or does not have information about something or someone.",
+      "ejemplo": "'Excuse me, sir... I don't know who you are. I think you're confusing me with someone else.'"
+    },
+    {
+      "termino": "Give a friendly suggestion or advice",
+      "explicacion": "Propose an idea or action politely to help or improve a situation.",
+      "ejemplo": "'Don't worry —she replied—. It happens sometimes. Maybe you need a stronger coffee to wake up.'"
+    }
+  ],
+  "palabras_clave": [
+    "coffee shop",
+    "appointment",
+    "project",
+    "distracted",
+    "scarf",
+    "confuse",
+    "embarrassment",
+    "apologies",
+    "misunderstanding",
+    "anecdote",
+    "concentrate",
+    "tablet",
+    "expression",
+    "scared",
+    "work",
+    "forget",
+    "shyness",
+    "relieved",
+    "traffic",
+    "documents"
+  ],
+  "narrativa": "Un Café con Confusión\nPedro llegó a la cafetería 'El Grano de Oro' a las cinco de la tarde. El lugar estaba lleno de gente joven trabajando en sus computadoras y el aroma a café recién tostado era simplemente asombroso. Él tenía una cita con su amiga Sonia para discutir un proyecto importante sobre el medio ambiente. Sin embargo, Pedro suele estar en las nubes cuando tiene muchas cosas en la cabeza.\nSe sentó en una mesa pequeña cerca de la ventana y decidió esperar. Mientras tanto, sacó su tableta para revisar unos documentos. De repente, vio a una mujer con una bufanda roja entrar al local. '¡Esa debe ser Sonia!', pensó Pedro con entusiasmo. Ella se sentó en una mesa al fondo y pidió un capuchino. Pedro se levantó, caminó hacia ella y, sin decir una palabra, se sentó frente a ella con una gran sonrisa.\n—¡Hola! Qué bueno que lograste llegar —dijo Pedro muy animado—. Estaba preocupado porque el tráfico hoy es un desastre. Por cierto, me encanta tu bufanda, te queda muy bien.\nLa mujer lo miró con una expresión muy extraña. Parecía confundida y un poco asustada. Pedro, sin darse cuenta del error, continuó hablando rápidamente:\n—Bueno, tenemos que ponernos las pilas con el proyecto. El director espera que logremos desarrollar la propuesta para el lunes. ¿Trajiste los apuntes que te pedí?\nLa mujer finalmente interrumpió:\n—Disculpe, señor... no sé quién es usted. Creo que me está confundiendo con otra persona. De hecho, yo no me llamo Sonia y no trabajo en ningún proyecto.\nPedro sintió que la cara se le ponía roja de la vergüenza. En ese momento, escuchó una risa familiar detrás de él. Era Sonia, la verdadera Sonia, que estaba sentada en la mesa de al lado observando toda la escena.\n—Pedro, ¡estás aquí! —exclamó Sonia entre risas—. Te vi entrar, pero estabas tan distraído que no me viste.\nPedro se levantó de inmediato y le pidió disculpas a la desconocida.\n—¡Lo siento muchísimo! —dijo Pedro con amabilidad—. De verdad metí la pata. Estaba tan concentrado en mis pensamientos que no me fijé bien en su rostro. Por favor, discúlpeme.\nLa mujer sonrió con suavidad al ver que solo era un malentendido inocente.\n—No se preocupe —respondió ella—. A veces sucede. A lo mejor usted necesita un café más fuerte para despertar.\nPedro regresó a la mesa con Sonia, sintiéndose un poco tonto pero aliviado.\n—A pesar de la vergüenza, esto es una buena anécdota —comentó Sonia—. Pero ahora, en serio, debemos concentrarnos. No podemos permitir que el tiempo siga pasando.\nAmbos empezaron a trabajar, aunque de vez en cuando, Pedro miraba hacia la otra mesa y sonreía con timidez. Definitivamente, ese sería un día difícil de olvidar."
+}
